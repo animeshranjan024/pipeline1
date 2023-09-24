@@ -1,7 +1,7 @@
 pipeline {
   
   agent {
-  	lable: master
+  	lable: "master"
   }
 
   stages {
