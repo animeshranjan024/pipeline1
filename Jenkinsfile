@@ -1,8 +1,4 @@
 pipeline {
-  
-  agent {
-  	lable: "master"
-  }
 
   stages {
 	stage("Fetch name")
